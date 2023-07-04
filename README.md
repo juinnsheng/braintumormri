@@ -8,7 +8,7 @@ Also thanks to Navoneel Chakrabarty, Swati Kanchan for the mri dataset on Kaggle
 I have modified some codes accordingly using a different dataset as a practise.
 Accuracy is about 70%.
 
-![MRI Image](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
+![MRI Image]([https://radiopaedia.org/cases/normal-brain-mri-6])
 
 
 Will continue to keep learning :)
