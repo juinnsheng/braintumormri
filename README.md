@@ -8,8 +8,7 @@ Also thanks to Navoneel Chakrabarty, Swati Kanchan for the mri dataset on Kaggle
 I have modified some codes accordingly using a different dataset as a practise.
 Accuracy is about 70%.
 
-![MRI Image]([https://www.mdpi.com/2076-3417/10/6/1999])
-Image credit: https://doi.org/10.3390/app10061999
+![MRI Image]([https://commons.wikimedia.org/wiki/File:Brain_MRI_131716_T2.png])
 
 
 Will continue to keep learning :)
